@@ -1,6 +1,6 @@
-#Redteaming Process Framework: RTPF
+**Redteaming Process Framework: RTPF**
 
-![Uploading Screenshot 2024-08-08 at 9.37.08 PM.png…]()
+<img width="868" alt="Screenshot 2024-08-08 at 9 41 31 PM" src="https://github.com/user-attachments/assets/215f15b4-d92e-4abe-89ec-9dc6d2a6d1de">
 
 
 1	Define the process - what are the distinct steps of the process? what are the beginning and end states?
@@ -11,7 +11,7 @@
 6	Invent attack scenarios - begin asking "what if" questions about the different steps in the process and how you can craft an attack plan that exploits targeted or all steps in a process, and use the operational objective to shape this attack plan
 7	Simulate your adversary - carry out the necessary system and social engineering actions to exploit the process and achieve your operational objectives
 
-#Example: applying the framework to the employee transfer process
+**Example: applying the framework to the employee transfer process**
 
 1	Define the process - Susan submits an employee transfer request for her employee Jim to Tom in HR - Tom validates that the target team has headcount using the Team Tracker tool and then verifies that Jim is a full-time employee - Tom then submits the transfer in the Transfer Helper tool and Susan confirms this when she receives an automated confirmation email
 2	Identify the key stakeholders- The manager, the employee, HR, and the service teams that power the Team Tracker and Transfer Helper tools
